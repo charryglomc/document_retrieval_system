@@ -86,5 +86,5 @@ sudo cp php_TCP /var/www/html/
 
 ### 系统运行过程图
 
-<img src="https://img-blog.csdnimg.cn/20200713090409283.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1dvcnRoeV9XYW5n,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" style="zoom: 67%;" />
+<img src="https://s2.loli.net/2023/07/18/X6glyFtVNmfJ1Ti.png" alt="image.png" style="zoom:50%;" />
 
